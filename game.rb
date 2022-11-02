@@ -1,0 +1,1 @@
+require './components/guess_the_word'
